@@ -10,9 +10,7 @@ python-dotenv
 tavily-python>=0.3.0
 
 streamlit>=1.0.0
-beautifulsoup4>=4.12.0
+beautifulsoup4
 readability-lxml
 trafilatura
-lxml>=5.0.0
-
-rich>=13.7.0
+rich

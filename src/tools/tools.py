@@ -9,7 +9,7 @@ import trafilatura
 import re
 
 
-load_dotenv(orverride=True)
+load_dotenv(override=True)
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
